@@ -1,1 +1,2 @@
-Cette ligne a été ajoutée
+Cette ligne a  ajoutée
+Le mot "été" est retiré
